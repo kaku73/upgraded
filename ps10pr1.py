@@ -1,9 +1,4 @@
-#ps10pr1.py
-#
-#Name: Takamitsu Shirono
-#
-#Pair name: Claire Yu
-#Pair email: claireyu@bu.edu
+
 class Board:
       def __init__(self,height,width):
             """creates Board class with three attribbutes: height, width and slots of the board"""
